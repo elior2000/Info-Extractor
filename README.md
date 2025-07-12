@@ -41,8 +41,8 @@ The script offers quick insights into the system's network details, CPU and memo
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
-   cd <your-repo>
+   git clone https://github.com/elior2000/Info-Extractor.git
+   cd Info-Extractor
    ```
 
 2. **Make the script executable**
